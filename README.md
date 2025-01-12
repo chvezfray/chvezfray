@@ -6,9 +6,7 @@ The mathematical formula $T = \ln(\tau)$ can be expressed in various equivalent 
 
 ## 1. Inverse Transformation
 - To revert from $T$ back to $\tau$:
-  $
-  \tau = e^T
-  $
+  $$\tau = e^T$$
   where $e$ is the base of the natural logarithm, approximately equal to 2.71828.
 
 ## 2. Exponential Form
