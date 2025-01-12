@@ -1,6 +1,6 @@
 $$T=\ln(\tau)$$
 
-# Equivalent Forms
+# Equivalent Forms 😭😭😭😭😭😭😭😭😭😭
 
 The mathematical formula $T = \ln(\tau)$ can be expressed in various equivalent forms, depending on the mathematical attributes or application contexts we want to emphasize. Here are some common equivalent forms:
 
