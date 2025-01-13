@@ -47,7 +47,7 @@ The mathematical formula $T = \ln(\tau)$ can be expressed in various equivalent 
 
 $K = \frac{1}{\ln(b)}$
 -----------------------
-Okay, here's the formalized derivation process, written in English, for obtaining the logarithmic time scale and introducing He's scaling constant, starting from the assumption that the cosmological constant evolves as $\Lambda(t) = 1/t$:
+obtaining the logarithmic time scale and introducing He's scaling constant, starting from the assumption that the cosmological constant evolves as $\Lambda(t) = 1/t$:
 
 **1. Re-Assumption of Cosmological Constant Evolution**
 
@@ -106,6 +106,5 @@ Through the steps above, we have completed the process of deriving the logarithm
 3.  **New Time Parameter:** We set $\tau = t$, then $T = \ln(\tau)$.
 4.  **He's Scaling Constant:** We introduce He's scaling constant $\Lambda_b = \ln(b)$ allowing us to relate different logarithmic time scales through: $T_b = \frac{T}{\Lambda_b}$.
 
-This mathematical derivation uses only basic calculus and the definition of logarithms and exponents to derive a logarithmic time scale from an assumed relationship for the cosmological constant. However, it's crucial to remember that this derivation is based on the assumption that the cosmological constant follows this particular evolution, and further investigation is needed to understand the physical implications and validity of this assumption.
 
-This formal derivation should provide a clear, step-by-step explanation of the process. If you have any more questions or new ideas to explore, feel free to ask!
+
